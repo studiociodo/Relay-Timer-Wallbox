@@ -4,4 +4,5 @@ For starting my wallbox to charging the car, I made a timer that you can set the
 By default is delay 0 and duration 12 hours (for immedialy start), but with pressing of relative buttons you can set delay from 0 to 12 hours and duration from 1 to 12 hours.
 
 ![schematic_bb](https://github.com/studiociodo/Relay-Timer-Wallbox/assets/150088592/cbcc0532-21f2-492b-ab1f-0ebdccbef33c)
-![preview](https://github.com/studiociodo/Relay-Timer-Wallbox/assets/150088592/d87feada-9c76-448a-ad61-a42e5822fd20)
+
+![preview (480x640)](https://github.com/studiociodo/Relay-Timer-Wallbox/assets/150088592/c979d504-9dd3-42d6-9604-0c6ec2e4f337)
